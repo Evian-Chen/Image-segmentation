@@ -17,6 +17,7 @@ This dataset is from Carvana Image Masking Challenge(link in reference). Every v
 * Build a custom dataloader for loading data. 
 * Train the model.
 
+<img src="https://github.com/Evian-Chen/U-Net-segmentation/blob/main/unet%20architecture.png" width="450" height="290">
 ![UNet Architecture](https://github.com/Evian-Chen/U-Net-segmentation/blob/main/unet%20architecture.png)
 
 ## References
