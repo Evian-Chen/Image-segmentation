@@ -8,6 +8,9 @@ This dataset is from Carvana Image Masking Challenge(link in reference). Every v
 
 (excerpted from kaggle)
 
+<img src="https://github.com/Evian-Chen/Image-segmentation/blob/main/feaf59172a01_16.jpg" width="300" height="200">
+<img src="https://github.com/Evian-Chen/Image-segmentation/blob/main/feaf59172a01_16.jpg" width="300" height="200">
+
 ## Methodology
 * Build a double convolution network for U-Net.
 * Build a U-Net structure model for training later.
