@@ -1,4 +1,4 @@
-# U-Net-segmentation
+# Image-segmentation
 ## Overview
 This is a samll practice of image segmentation using U-Net architecture.
 
