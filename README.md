@@ -18,7 +18,6 @@ This dataset is from Carvana Image Masking Challenge(link in reference). Every v
 * Train the model.
 
 <img src="https://github.com/Evian-Chen/U-Net-segmentation/blob/main/unet%20architecture.png" width="450" height="290">
-![UNet Architecture](https://github.com/Evian-Chen/U-Net-segmentation/blob/main/unet%20architecture.png)
 
 ## References
 <a href="https://www.kaggle.com/c/carvana-image-masking-challenge">Carvana Image Masking Challenge</a>
