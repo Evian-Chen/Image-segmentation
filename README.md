@@ -23,3 +23,5 @@ This dataset is from Carvana Image Masking Challenge(link in reference). Every v
 <a href="https://www.kaggle.com/c/carvana-image-masking-challenge">Carvana Image Masking Challenge</a>
 
 <a href="https://arxiv.org/abs/1505.04597">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>
+
+<a href="https://youtu.be/I9MPzQCd4o4?si=j0pJaDCB1lsTY4F8"> U-Net implementation</a>
